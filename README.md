@@ -6,9 +6,12 @@ Botti toimi pelissä API-rajapinnan kautta, jossa oli endpointit uuden pelin luo
 
 Vaatimukset:
 
-Tekemäni botin pisteiden keskimääräinen erotus vastustajien pisteisiin tuli olla pienempi kuin 24 pistettä, ja pelejä tuli olla pelattuna vähintään 100.Tekemäni botin keskimääräinen piste erotus muihin pelaajiin oli -7.7, 100 peliä pelattuna.
+Tekemäni botin pisteiden keskimääräinen erotus vastustajien pisteisiin tuli olla pienempi kuin 24 pistettä, ja pelejä tuli olla pelattuna vähintään 100.
 
-Toteutus: Node.js, Axios, dotenv, git, JavaScript
+Toteutus:
+
+- Node.js, Axios, dotenv, git, JavaScript
+- Tekemäni botin keskimääräinen piste erotus muihin pelaajiin oli -7.7, 100 peliä pelattuna.
 
 Pelin säännöt:
 
