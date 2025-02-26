@@ -1,4 +1,4 @@
-Monad Oyn Koodipähkinä 2025 kesäharjoitteluun
+Monadin Koodipähkinä 2025 kesäharjoitteluun
 
 Tehtävänä oli luoda oma botti pelaamaan korttipeliä Monadin kehittämiä vastustajia vastaan.
 
